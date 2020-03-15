@@ -3,3 +3,4 @@ bbb
 ccc
 dd      
 add line 5 in master // merge line
+add line 6
